@@ -28,8 +28,7 @@
 
 
 <details>
-<summary>**西征**</summary>
-
+<summary>西征</summary>
 
 
 <img width="864" height="566" alt="image" src="https://github.com/user-attachments/assets/6d7d0815-345c-4adf-9614-9279d3c148e5" />
@@ -46,22 +45,26 @@ https://www.shidianguji.com/book/SK2084/chapter/1llqmcqzppykf?page_from=reading_
 **用到的参考资料：（最好有截图）**
 </details>
 
-### 苏菲
+<details>
+<summary>苏菲</summary>
 
 - 文字：待补充
 - 图片：直接拖拽/粘贴到此处
 
 **用到的参考资料：（最好有截图）**
+</details>
 
-### 同治
+<details>
+<summary>同治</summary>
 
 - 文字：待补充
 - 图片：直接拖拽/粘贴到此处
 
 **用到的参考资料：（最好有截图）**
+</details>
 
-### 重要人物检索——谁值得为之骄傲
-
+<details>
+<summary>重要人物检索——谁值得为之骄傲</summary>
 - 马如龙（1832年-1891年），原名席珍，本名马现（一作献），号云峰，字献廷，回族，云南建水回龙村人，清军云南籍将领。
  
 咸丰四年（1854年），南安州（今双柏县）石羊银厂矿争愈演愈烈，马如龙招集回、汉、彝民参加矿争，次年返乡。咸丰六年（1856年），昆明“四月事件”发生前后，建水团练、厂客武装与清军先后搜杀建水回民，围攻回龙村，马如龙率领回民奋起反抗，反攻建水，转战馆驿，成为滇南反清起义的主要力量。咸丰七年至咸丰十一年（1857年-1861年），马如龙以“劣绅欺凌，大吏偏袒”，“止欲报仇，不敢为逆”，北上攻打省会昆明，自称总统兵马三迤大元帅。
@@ -71,27 +74,29 @@ https://www.shidianguji.com/book/SK2084/chapter/1llqmcqzppykf?page_from=reading_
 
 
 **用到的参考资料：（最好有截图）**
+</details>
 
-### 作为结论的认同边界
+<details>
+<summary>作为结论的认同边界</summary>
 
 - 文字：待补充
 - 图片：直接拖拽/粘贴到此处
 
 **用到的参考资料：（最好有截图）**
+</details>
 
 ## 2. DNA计划
 
-- 文字：待补充
-- 图片：直接拖拽/粘贴到此处
 
-**用到的参考资料：（最好有截图）**
+<details>
+<summary>分聚集区的DNA整理</summary>
 
-### 分聚集区的DNA整理
 
 - 文字：待补充
 - 图片：直接拖拽/粘贴到此处
 
 **用到的参考资料：（最好有截图）**
+</details>
 
 ### 作为结论的可靠地缘边界——缩圈
 
