@@ -201,7 +201,7 @@ https://www.shidianguji.com/book/SK2084/chapter/1llqmcqzppykf?page_from=reading_
 </details>
 
 <details>
-<summary>可考证的饮食——从自创到和汉菜半重合</summary>
+<summary>可考证的饮食——从自创到和半重合</summary>
 
 - 文字：待补充
 - 图片：直接拖拽/粘贴到此处
@@ -378,17 +378,88 @@ https://www.neac.gov.cn/seac/ztzl/huiz/gk.shtml
 
 ## 8. 沙碛乐队
 
+<details>
+<summary>歌词</summary>
+
 - 文字：待补充
 - 图片：直接拖拽/粘贴到此处
 
 **用到的参考资料：（最好有截图）**
+</details>
+
+<details>
+<summary>旋律</summary>
+
+- 文字：待补充
+- 图片：直接拖拽/粘贴到此处
+
+**用到的参考资料：（最好有截图）**
+</details>
+
+<details>
+<summary>mv</summary>
+
+- 文字：待补充
+- 图片：直接拖拽/粘贴到此处
+
+**用到的参考资料：（最好有截图）**
+</details>
 
 ## 9. 留给你的孩子所认识的世界
 
+<details>
+<summary>尊严和自信</summary>
+
 - 文字：待补充
 - 图片：直接拖拽/粘贴到此处
 
 **用到的参考资料：（最好有截图）**
+</details>
+
+<details>
+<summary>自由</summary>
+
+- 文字：待补充
+- 图片：直接拖拽/粘贴到此处
+
+**用到的参考资料：（最好有截图）**
+</details>
+
+<details>
+<summary>教门道德底线</summary>
+
+- 文字：待补充
+- 图片：直接拖拽/粘贴到此处
+
+**用到的参考资料：（最好有截图）**
+</details>
+
+<details>
+<summary>唯物主义</summary>
+
+- 文字：待补充
+- 图片：直接拖拽/粘贴到此处
+
+**用到的参考资料：（最好有截图）**
+</details>
+
+<details>
+<summary>宗教哲学</summary>
+
+- 文字：待补充
+- 图片：直接拖拽/粘贴到此处
+
+**用到的参考资料：（最好有截图）**
+</details>
+
+<details>
+<summary>梦想</summary>
+
+- 文字：待补充
+- 图片：直接拖拽/粘贴到此处
+
+**用到的参考资料：（最好有截图）**
+</details>
 
 ---
 
