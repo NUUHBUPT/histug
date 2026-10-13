@@ -226,7 +226,8 @@ https://www.shidianguji.com/book/SK2084/chapter/1llqmcqzppykf?page_from=reading_
 
 ## 7. 河州阿拜文集
 
-### 2025民族文化节团结导向文案
+<details>
+<summary>2025民族文化节团结导向文案</summary>
 
 [回族作为中华民族团结先锋介绍.docx](https://github.com/user-attachments/files/33380596/default.docx)
 
@@ -360,6 +361,7 @@ https://www.neac.gov.cn/seac/ztzl/huiz/gk.shtml
 https://www.neac.gov.cn/seac/ztzl/huiz/gk.shtml
 《民族问题五种丛书》之《中国少数民族》卷 回族风俗文化
 倒数第二段
+</details>
 
 
 ## 8. 沙碛乐队
