@@ -31,7 +31,10 @@
 
 **用到的参考资料：（最好有截图）**
 
-### 西征
+<details>
+<summary>### 西征</summary>
+
+
 
 <img width="864" height="566" alt="image" src="https://github.com/user-attachments/assets/6d7d0815-345c-4adf-9614-9279d3c148e5" />
 https://www.shidianguji.com/book/SK2084/chapter/1llqmcqzppykf?page_from=reading_page&paragraphId=7581920066011709476
@@ -45,6 +48,7 @@ https://www.shidianguji.com/book/SK2084/chapter/1llqmcqzppykf?page_from=reading_
 
 
 **用到的参考资料：（最好有截图）**
+</details>
 
 ### 苏菲
 
