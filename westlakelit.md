@@ -1,4 +1,4 @@
-# 德克士小西湖店
+<img width="7948" height="3704" alt="IMG_20261015_000821" src="https://github.com/user-attachments/assets/828bcc93-85ab-432d-bb5c-deaafc7d983e" /># 德克士小西湖店
 
 > **在我死之前，我还想找到我来过的痕迹。痛苦和血泪也是我的。**
 >
@@ -18,7 +18,7 @@
 | 5 | **Logo和现代抽象符号** ||
 | 6 | **舆论和我们在哪**|舆论收集 / 反击话术 |
 | 7 | **河州阿拜文集** ||
-| 8 | **和泰社会生存指南** |自我介绍 / 面对问题 / 了解对方立场 / 尊重的由来是差异-请创造统战价值|
+| 8 | **和泰社会生存指南** |自我介绍 / 面对问题 / 了解对方立场 / 尊重的由来是差异和独立性-请创造统战价值|
 | 9 | **留给你的孩子所认识的世界** |尊严和自信 / 自由 / 教门道德底线 / 唯物主义 / 宗教哲学 / 梦想|
 | 10 | **沙碛乐队** |歌词 / 旋律 / mv|
 ---
@@ -87,9 +87,10 @@ https://www.shidianguji.com/book/SK2084/chapter/1llqmcqzppykf?page_from=reading_
 
 <details>
 <summary>对常见谬论的纠正</summary>
+一个翻译自英文的学术介绍。请注意我们当然批判恶意的政治抹黑。
+<img width="8192" height="7290" alt="IMG_20261015_001012" src="https://github.com/user-attachments/assets/57b67573-65b0-4e5b-afce-4b46b01e099a" />
+<img width="7948" height="3704" alt="IMG_20261015_000821" src="https://github.com/user-attachments/assets/f2c24dd8-d5a1-44e8-a5db-4e8b4543323c" />
 
-- 文字：待补充
-- 图片：直接拖拽/粘贴到此处
 
 **用到的参考资料：（最好有截图）**
 </details>
@@ -416,7 +417,8 @@ https://www.neac.gov.cn/seac/ztzl/huiz/gk.shtml
 </details>
 
 <details>
-<summary>尊重的由来是差异-请创造统战价值</summary>
+<summary>尊重的由来是差异和独立性
+-请创造统战价值</summary>
 
 - 文字：待补充
 - 图片：直接拖拽/粘贴到此处
