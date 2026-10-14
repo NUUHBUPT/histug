@@ -1,4 +1,3 @@
-<img width="7948" height="3704" alt="IMG_20261015_000821" src="https://github.com/user-attachments/assets/828bcc93-85ab-432d-bb5c-deaafc7d983e" /># 德克士小西湖店
 
 > **在我死之前，我还想找到我来过的痕迹。痛苦和血泪也是我的。**
 >
