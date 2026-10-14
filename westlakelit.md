@@ -376,10 +376,11 @@ https://www.neac.gov.cn/seac/ztzl/huiz/gk.shtml
 </details>
 
 
-## 8. 沙碛乐队
+
+## 8. 和泰社会生存指南
 
 <details>
-<summary>歌词</summary>
+<summary>自我介绍</summary>
 
 - 文字：待补充
 - 图片：直接拖拽/粘贴到此处
@@ -388,7 +389,7 @@ https://www.neac.gov.cn/seac/ztzl/huiz/gk.shtml
 </details>
 
 <details>
-<summary>旋律</summary>
+<summary>面对问题</summary>
 
 - 文字：待补充
 - 图片：直接拖拽/粘贴到此处
@@ -397,7 +398,16 @@ https://www.neac.gov.cn/seac/ztzl/huiz/gk.shtml
 </details>
 
 <details>
-<summary>mv</summary>
+<summary>了解对方立场</summary>
+
+- 文字：待补充
+- 图片：直接拖拽/粘贴到此处
+
+**用到的参考资料：（最好有截图）**
+</details>
+
+<details>
+<summary>尊重的由来是差异-请创造统战价值</summary>
 
 - 文字：待补充
 - 图片：直接拖拽/粘贴到此处
@@ -461,6 +471,36 @@ https://www.neac.gov.cn/seac/ztzl/huiz/gk.shtml
 **用到的参考资料：（最好有截图）**
 </details>
 
+
+
+## 10. 沙碛乐队
+
+<details>
+<summary>歌词</summary>
+
+- 文字：待补充
+- 图片：直接拖拽/粘贴到此处
+
+**用到的参考资料：（最好有截图）**
+</details>
+
+<details>
+<summary>旋律</summary>
+
+- 文字：待补充
+- 图片：直接拖拽/粘贴到此处
+
+**用到的参考资料：（最好有截图）**
+</details>
+
+<details>
+<summary>mv</summary>
+
+- 文字：待补充
+- 图片：直接拖拽/粘贴到此处
+
+**用到的参考资料：（最好有截图）**
+</details>
 ---
 
 ## 编辑说明
