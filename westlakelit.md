@@ -33,9 +33,10 @@
 <img width="365" height="606" alt="屏幕截图 2026-10-24 142512" src="https://github.com/user-attachments/assets/2a8e6b68-27a0-4215-a295-96923c1579e9" />
 <img width="365" height="589" alt="屏幕截图 2026-10-24 142525" src="https://github.com/user-attachments/assets/2fcf8a31-97be-4d24-8cb5-ca7330c86230" />
 <img width="359" height="608" alt="屏幕截图 2026-10-24 142534" src="https://github.com/user-attachments/assets/cb9b75e7-43ab-4c23-8264-4b2001105174" />
-
 <img width="366" height="464" alt="屏幕截图 2026-10-24 142628" src="https://github.com/user-attachments/assets/5273e291-eab9-44f7-971e-53d1f55fe707" />
+
 https://kns.cnki.net/reader/flowpdf?invoice=GONhij6lVUUN3dnE0joOaQhzKHP9SIbVr6YOkFhLDlCXKQr4c5WLLgprWaKNetUMiWFhQD4XGpB7A3npv7S%2BA9NHMKhN7az0rvT1%2BtohsNrpEXIHiqyX%2FaCLRlKne7ymN3GYollFU7Zu%2Bf8NVDAHLEVTY6R7ZHkxGY3fieksaV4%3D&platform=NZKPT&sourcetype=nxgp&product=CDFD&filename=1015331895.nh&tablename=cdfdlast2019&type=DISSERTATION&scope=trial&cflag=overlay&dflag=&pages=&language=CHS&trial=&nonce=99F4674CE2FE49F788E341148E9EADA6
+
 <img width="460" height="548" alt="屏幕截图 2026-10-24 141958" src="https://github.com/user-attachments/assets/81ffc7fb-46dd-4d04-8eaa-ff4cb6b8607c" />
 
 
@@ -62,6 +63,18 @@ https://www.shidianguji.com/book/SK2084/chapter/1llqmcqzppykf?page_from=reading_
 回回沙碛
 回回国所经道中，有沙碛数千里，不生草木，亦无水泉，尘沙眯目，凡一月方能过此。每以盐和面作大脔，置橐𫘞口中，仍系其口，勿令噬嗑，使盐面之气沾濡，庶不致饿死。人则以面作饼，各贮水一榼于腰间，或牛羊浑脱皮盛水置车中。每日略食饵饼，濡之以水。或迷路水渴，太渴则饮马溺，或压马粪汁而饮之。其国人亦以为如登天之难。今回回皆以中原为家，江南尤多，宜乎不复回首故国也。
 
+
+<img width="460" height="548" alt="屏幕截图 2026-10-24 141958" src="https://github.com/user-attachments/assets/58676ab1-82fd-45a8-a350-429d9139f7d7" />
+
+<img width="368" height="602" alt="image" src="https://github.com/user-attachments/assets/3617dd46-d05f-4bf5-88c7-e3db2cd9492e" />
+<img width="333" height="559" alt="image" src="https://github.com/user-attachments/assets/0992780a-a732-4537-b060-3012184370b6" />
+<img width="334" height="546" alt="image" src="https://github.com/user-attachments/assets/57dbdc22-cd5f-4415-8b74-5c2cd577045e" />
+<img width="341" height="328" alt="image" src="https://github.com/user-attachments/assets/3dd73f32-db5e-4bc5-8b68-2ee7ccc3344c" />
+<img width="334" height="557" alt="image" src="https://github.com/user-attachments/assets/69b1786d-17fd-4170-905e-f09217f74aa8" />
+<img width="335" height="554" alt="image" src="https://github.com/user-attachments/assets/f96b025c-e9f1-483f-8953-78922c64918d" />
+
+<img width="335" height="554" alt="image" src="https://github.com/user-attachments/assets/30ad859e-744b-4dc2-9a6f-30939f276c7e" />
+<img width="334" height="551" alt="image" src="https://github.com/user-attachments/assets/4fc71e75-dd27-4f03-885b-874a0abab207" />
 
 **用到的参考资料：（最好有截图）**
 </details>
