@@ -1,4 +1,3 @@
-
 > **在我死之前，我还想找到存在过的痕迹。痛苦和血泪也是我的。**
 >
 > **既得利益者扼杀自我，剩下的人想要真实的尊严。**
@@ -29,6 +28,19 @@
 
 <details>
 <summary>存在于唐宋吗</summary>
+
+<img width="371" height="559" alt="屏幕截图 2026-10-24 142456" src="https://github.com/user-attachments/assets/a084a3a1-e722-4183-ab99-20acd1d0679e" />
+<img width="365" height="606" alt="屏幕截图 2026-10-24 142512" src="https://github.com/user-attachments/assets/2a8e6b68-27a0-4215-a295-96923c1579e9" />
+<img width="365" height="589" alt="屏幕截图 2026-10-24 142525" src="https://github.com/user-attachments/assets/2fcf8a31-97be-4d24-8cb5-ca7330c86230" />
+<img width="359" height="608" alt="屏幕截图 2026-10-24 142534" src="https://github.com/user-attachments/assets/cb9b75e7-43ab-4c23-8264-4b2001105174" />
+
+<img width="366" height="464" alt="屏幕截图 2026-10-24 142628" src="https://github.com/user-attachments/assets/5273e291-eab9-44f7-971e-53d1f55fe707" />
+https://kns.cnki.net/reader/flowpdf?invoice=GONhij6lVUUN3dnE0joOaQhzKHP9SIbVr6YOkFhLDlCXKQr4c5WLLgprWaKNetUMiWFhQD4XGpB7A3npv7S%2BA9NHMKhN7az0rvT1%2BtohsNrpEXIHiqyX%2FaCLRlKne7ymN3GYollFU7Zu%2Bf8NVDAHLEVTY6R7ZHkxGY3fieksaV4%3D&platform=NZKPT&sourcetype=nxgp&product=CDFD&filename=1015331895.nh&tablename=cdfdlast2019&type=DISSERTATION&scope=trial&cflag=overlay&dflag=&pages=&language=CHS&trial=&nonce=99F4674CE2FE49F788E341148E9EADA6
+<img width="460" height="548" alt="屏幕截图 2026-10-24 141958" src="https://github.com/user-attachments/assets/81ffc7fb-46dd-4d04-8eaa-ff4cb6b8607c" />
+
+
+
+
 
 - 文字：待补充
 - 图片：直接拖拽/粘贴到此处
